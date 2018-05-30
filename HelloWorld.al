@@ -13,7 +13,7 @@ pageextension 50100 CustomerListExt extends "Customer List"
     var
         myInt : Integer;
     begin
-        Message('This is a message');
+        //Message('This is a message');
     end;
 
     local procedure MyFirstProcedure1(lvpInt:Integer);
